@@ -4,9 +4,9 @@
 </a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
-[![Linkedin: anmol](https://img.shields.io/badge/-aksh-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://in.linkedin.com/in/adesh-singh-9a882316a)](https://in.linkedin.com/in/adesh-singh-9a882316a)
+[![Linkedin: aksh](https://img.shields.io/badge/-aksh-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://in.linkedin.com/in/aksh-singh-0808bb220)](https://in.linkedin.com/in/aksh-singh-0808bb220)
 ![GitHub followers](https://img.shields.io/github/followers/cppqtdev?label=Follow&style=social)
-[![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://dabreha.blogspot.com)](https://dabreha.blogspot.com)
+[![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://cppqtdev.blogspot.com)](https://cppqtdev.blogspot.com)
 
 ### 📫 Like to meet me?
 
